@@ -9,7 +9,7 @@ const Footer = () => {
           <p className='mb-4 text-center text-sm uppercase'>Company Name 2022</p>
           <Socials />
         </div>
-        <ul className='font-serif py-3 flex flex-col justify-center space-y-2 items-center md:flex-row md:justify-around md:space-y-0'>
+        <ul className='lg:max-w-5xl lg:mx-auto font-serif py-3 flex flex-col justify-center space-y-2 items-center md:flex-row md:justify-around md:space-y-0'>
           <li className='cursor-pointer hover:text-white'>About</li>
           <li className='cursor-pointer hover:text-white'>Values</li>
           <li className='cursor-pointer hover:text-white'>Contact</li>
