@@ -147,7 +147,7 @@ const Navbar = () => {
 
         {/* Mobile Menu */}
         <div
-          className={`h-0 transition-all ease-in duration-500 bg-black/90 text-white overflow-y-auto md:overflow-y-hidden ${mobileMenuOpen && 'h-screen md:h-[40vh]'} ${
+          className={`h-0 transition-all ease-in duration-500 bg-black/90 text-white overflow-y-auto md:overflow-y-hidden ${mobileMenuOpen && 'h-screen md:h-[60vh]'} ${
             scrolled ? 'fixed top-11 left-0 right-0 md:top-[100px]' : ''
           }`}>
           <div>

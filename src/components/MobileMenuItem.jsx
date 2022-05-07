@@ -11,7 +11,7 @@ const MobileMenuItem = ({ head, className, items }) => {
   return (
     <li className={`py-1 ${className && className}`}>
       <button type='button' className=' font-bold flex justify-between items-center uppercase w-full' onClick={toggleOpen}>
-        <span className={open ? 'text-white md:text-red-600' : 'text-red-400'}>{head}</span>
+        <span className={open ? 'text-red-400 md:text-red-400' : 'text-white'}>{head}</span>
         {open ? <BsChevronDown className='md:hidden text-white' /> : <BsChevronRight className='md:hidden text-white' />}
       </button>
       <div className=' overflow-hidden font-serif '>

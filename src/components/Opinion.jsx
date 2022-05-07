@@ -42,7 +42,7 @@ const Opinion = () => {
   return (
     <section className='my-6'>
       <div className='container mx-auto px-2 border-b border-gray-300'>
-        <h2 className='text-3xl uppercase font-bold font-mono text-center py-2 mb-6'>Opinion</h2>
+        <h2 className='text-4xl uppercase font-mono font-bold  text-center py-2 mb-6'>Opinion</h2>
 
         {/* Flex container */}
         <div className='md:flex md:space-x-6 md:justify-center'>

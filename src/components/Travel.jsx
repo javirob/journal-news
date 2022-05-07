@@ -41,7 +41,7 @@ const Travel = () => {
   return (
     <section className='my-6'>
       <div className='container mx-auto border-b border-gray-300'>
-        <h2 className='text-3xl uppercase font-bold font-mono text-center py-2 '>travel</h2>
+        <h2 className='text-4xl uppercase font-mono font-bold  text-center py-2 mb-6'>travel</h2>
 
         <MainArticle img={data[0].img} title={data[0].title} author={data[0].author} />
 
