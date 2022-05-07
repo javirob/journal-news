@@ -2,13 +2,12 @@
 
 ## News Paper Landing Page created with React and Tailwind
 
-## Live Site
-
+### Live Site
 https://app.netlify.com/sites/news-site-tailwind-react
 
 ## Dependencies:
 
-- Laravel
+- Tailwind
 - React Icons
 - Autoprefixer
 - PostCSS
