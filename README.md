@@ -3,7 +3,7 @@
 News Paper Landing Page created with React and Tailwind
 
 ## Live Site
-https://app.netlify.com/sites/news-site-tailwind-react
+https://news-site-tailwind-react.netlify.app/
 
 ## Dependencies:
 - Tailwind
