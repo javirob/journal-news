@@ -89,7 +89,7 @@ const Navbar = () => {
           {/* Logo */}
           <div>
             <h1>
-              <a href='/' className='py-2 text-2xl  md:text-6xl lg:text-6xl inline-block text-white md:text-red-700 font-bold'>
+              <a href='/' className='font-serif font-extrabold py-2 text-2xl  md:text-6xl lg:text-6xl inline-block text-white md:text-red-700'>
                 Journal
               </a>
             </h1>
